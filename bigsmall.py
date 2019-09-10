@@ -1,6 +1,5 @@
 n=int(input())
 x=[int(x) for x in input().split()]
-print(x)
 big=low=x[0]
 bi=li=0
 for i in range(0,n):
